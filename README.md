@@ -125,3 +125,33 @@ The dashboard is designed to support **data-driven insights, comparative analysi
 ---
 
 ## 📂 Repository Structure
+📁 World-Population-2025
+├── 📊 World_Population_2025.pbix
+├── 🖼️ thumbnail_image.png
+├── 📄 Dataset.csv / Dataset.xlsx
+└── README.md
+
+---
+
+## 🎯 Use Cases
+- Global demographic analysis  
+- Market entry & business expansion planning  
+- Urban development & policy planning  
+- Academic research & case studies  
+- Data analytics portfolio showcase  
+
+---
+
+## ⭐ Conclusion
+This project provides a **clear, data-backed understanding of global population dynamics in 2025**.  
+By combining population size, density, fertility, and urbanization metrics, it delivers **actionable insights into current patterns and future trends**.
+
+---
+
+### 👤 Author
+**Nagendra Kumar**  
+Data Analytics & Operations Professional  
+📧 kumarnagendra450@gmail.com  
+
+⭐ *If you find this project valuable, consider starring ⭐ the repository.*
+
