@@ -1,4 +1,4 @@
-# 🌍 World Population Analysis – 2025
+# World Population Analysis 2025 - PowerBI Dashboard 
 ### Global Demographics Dashboard | Data Analytics & Visualization
 
 ![World Population 2025 Dashboard](thumbnail_image.png)
